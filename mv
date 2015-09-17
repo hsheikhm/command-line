@@ -1,0 +1,3 @@
+The shell command 'mv' is used to move a file or directory. 
+It takes two parameters: the first is the file/directory to be moved and the second is the location to which the file/directory will be moved.
+You can also use 'mv' to rename a file/directory.
