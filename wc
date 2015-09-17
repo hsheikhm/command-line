@@ -1,0 +1,6 @@
+The shell command 'wc' returns 3 figures: the line, word and character count of a file.
+It takes one parameter which is the filename.
+wc -l = returns line count only.
+wc -w = returns word count only.
+wc -m = returns character count only.
+wc -c = returns byte count only.
