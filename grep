@@ -1,0 +1,4 @@
+The shell command 'grep' stands for "global regular expression print". 
+It searches files for lines that match a pattern and returns the results. It is also case sensitive.
+It takes two parameters: the first is the string characters/pattern to be searched and the second
+is the location to search within.
